@@ -155,7 +155,7 @@ def user_stats(df,city):
         
     
 def display_data(df):
-    # Prompt if user would like to display the raw data of that city as chucks of 5 rows based on user_input
+    # Prompt, if user would like to display the raw data of that city as chucks of 5 rows based on user_input
     print('\nRaw data is available to check... \n')
     
     i = 0
