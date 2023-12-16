@@ -5,7 +5,7 @@
 Udacity-bikeshare-project
 
 ### Project Overview
-This project focuses on pyhon usage and simple statistics methods to perform descriptive analysis on the bikeshare data from three major U.S. cities - Chicago, Washington, and New York City - to display information such as most popular days or most common stations.
+This project focuses on python usage and simple statistics methods to perform descriptive analysis on the bikeshare data from three major U.S. cities - Chicago, Washington, and New York City - to display information such as most popular days or most common stations.
 
 ### Program Details
 The program takes user input for the city (e.g. Chicago), month for which the user wants to view data (e.g. January; also includes an 'all' option), and day for which the user wants to view data (e.g. Monday; also includes an 'all' option).
@@ -32,16 +32,13 @@ chicago.csv - Stored in the data folder, the chicago.csv file is the dataset con
 
 new_york_city.csv - Dataset containing all bikeshare information for the city of New York provided by Udacity.
 
-washington.csv - Dataset containing all bikeshare information for the city of Washington provided by Udacity. Note: This does not include the 'Gender' or 'Birth Year' data.
+washington.csv - Dataset containing all bike share information for the city of Washington provided by Udacity. Note: This does not include the 'Gender' or 'Birth Year' data.
 
 ### Built with
 Python 3.11.6 - The language used to develop this.
-pandas - One of the libraries used for this.
-numpy - One of the libraries used for this.
+Pandas - One of the libraries used for this.
+Numpy - One of the libraries used for this.
 time - One of the libraries used for this.
 
 ### Credits
-I was able to complete this project with the knowledge gained from the programming for Datascience Nanodegree programme. i also used Google, Chatgpt and stack overflow to correct errors i encountered in code. Thank you
- Udacity is the best!
-Udacity is the best!
-Great Course
+I completed this project with the knowledge gained from the programming for the Datascience Nanodegree program. I also used Google, Chatgpt, and stack overflow to correct errors I encountered in the code.
